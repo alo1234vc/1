@@ -694,7 +694,7 @@ end
 -- KEY SYSTEM - Alo1234vc hub (Key: SIKEMOD-119)
 -- =============================================
 local SikeKey = ""
-local SikeLink = "https://xuandoann58-cloud.github.io/Test-/"
+local SikeLink = "https://alo1234vc.github.io/1/"
 
 -- API KEY SYSTEM (điền URL Worker của bạn)
 local KEY_API_URL = "https://alo1234vc-api.xuandoann58.workers.dev/api/check-key"
